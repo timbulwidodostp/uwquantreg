@@ -1,6 +1,8 @@
 # uwquantreg
 Fit unit Weibull quantile regression model Use uwquantreg With (In) R Software
 
+https://www.youtube.com/watch?v=m2-SfI3n-U0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
